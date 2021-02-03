@@ -1,6 +1,4 @@
-# work
-#define innode 3//输入层结点数
-#define hidenode 10//隐层结点数
-#define outnode 1//输出层结点数
-#define trainsample 75//训练样本数
-#define testsample 75//测试样本数
+# BP神经网络
+### 三个输入 三个隐含层 一个输出
+### 1.定义结点、权值、偏置、误差、学习率
+***
